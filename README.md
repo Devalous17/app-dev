@@ -8,10 +8,10 @@ My first repository.
 **Released:** June 2020
 
 ### Why I love it
-> A 5v5 game where teamwork and strategy matter.
+> because this game gives me dopamine rush
 
-1. Fun gunplay
-2. Unique agents with special abilities
+1. bang bang bang
+2. gg freakin ez
 3. Competitive matches with friends
 
 ### Agent roles
@@ -19,3 +19,6 @@ My first repository.
 - **Controller** – blocks vision with smokes (e.g., Brimstone)
 - **Initiator** – gathers info (e.g., Sova)
 - **Sentinel** – defends areas (e.g., Sage)
+
+   ### click tha mf link
+   [Official Valorant website](https://playvalorant.com)
